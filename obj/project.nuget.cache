@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XCyfecwzRIDIJYt+QQoSGhptMTyZlSawo0KY1cW6sRlEKWowGrT8/7YWGc622JpOdsldnQmW4JUTCqaMm3oxPw==",
+  "dgSpecHash": "euOBEq9O0mk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\Uni\\SIT217\\Library App\\Library App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Files\\Uni\\2024-T2\\SIT217\\9.1P\\git\\Library-App\\Library App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enriq\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Enriq\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Enriq\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Enriq\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }

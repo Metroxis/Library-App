@@ -18,6 +18,8 @@ namespace LibryApp
             inv1.addBook(book3);
 
             inv1.print();
+
+            Console.WriteLine("Enrique was here again");
         }
     }
 

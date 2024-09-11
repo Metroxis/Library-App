@@ -13,3 +13,18 @@ C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\refint\Library A
 C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.pdb
 C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.genruntimeconfig.cache
 C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\ref\Library App.dll
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\bin\Debug\net6.0\Library App.exe
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\bin\Debug\net6.0\Library App.deps.json
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\bin\Debug\net6.0\Library App.runtimeconfig.json
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\bin\Debug\net6.0\Library App.dll
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\bin\Debug\net6.0\Library App.pdb
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.AssemblyInfoInputs.cache
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.AssemblyInfo.cs
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.csproj.CoreCompileInputs.cache
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.sourcelink.json
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.dll
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\refint\Library App.dll
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.pdb
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\Library App.genruntimeconfig.cache
+D:\Files\Uni\2024-T2\SIT217\9.1P\git\Library-App\obj\Debug\net6.0\ref\Library App.dll
