@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Uni\SIT217\Library App\bin\Debug\net6.0\Library App.exe
+C:\Users\User\Documents\Uni\SIT217\Library App\bin\Debug\net6.0\Library App.deps.json
+C:\Users\User\Documents\Uni\SIT217\Library App\bin\Debug\net6.0\Library App.runtimeconfig.json
+C:\Users\User\Documents\Uni\SIT217\Library App\bin\Debug\net6.0\Library App.dll
+C:\Users\User\Documents\Uni\SIT217\Library App\bin\Debug\net6.0\Library App.pdb
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.AssemblyInfo.cs
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.dll
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\refint\Library App.dll
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.pdb
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\Library App.genruntimeconfig.cache
+C:\Users\User\Documents\Uni\SIT217\Library App\obj\Debug\net6.0\ref\Library App.dll
