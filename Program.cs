@@ -19,7 +19,21 @@ namespace LibryApp
 
             inv1.print();
 
-            Console.WriteLine("Enrique was here again");
+            Console.WriteLine();
+            Console.WriteLine("* * * * * * * * * * * *");
+            Console.WriteLine();
+
+            User test_user = new User("Bos", 1800267,"US Naval Prison Facility in Cuba", "Grover#1");
+
+            test_user.addbook(book1);
+            test_user.addbook(book3);
+
+            test_user.BorrowedBooks();
+
+            Console.WriteLine("enter password for " + test_user.Name());
+            string pass = Console.ReadLine();
+            Console.WriteLine(test_user.Login(pass));
+
         }
     }
 
